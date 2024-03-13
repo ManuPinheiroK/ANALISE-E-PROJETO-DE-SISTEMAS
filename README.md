@@ -31,3 +31,19 @@ Grupo: Gabryella, Marcelo, Mateus, Natan, Vitor e Manuela
 
 ## Plataforma:
  - Android e IOS.
+## Software:
+ -Chat por Voz Intuitivo:
+O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
+A interface é projetada para ser fácil de usar, com comandos de voz simples para enviar mensagens, iniciar chamadas e interagir de forma natural.
+
+-Reconhecimento de Voz Avançado:
+Utiliza tecnologia de reconhecimento de voz avançada para compreender com precisão os comandos e mensagens dos usuários, proporcionando uma comunicação eficiente e livre de barreiras.
+
+-Segurança e Privacidade:
+Implementa protocolos robustos de segurança para proteger a privacidade dos usuários, garantindo que todas as interações no chat por voz sejam seguras e confidenciais.
+
+-Atualizações:
+Compromisso com atualizações regulares para melhorar a eficiência do reconhecimento de voz, adicionar novos recursos de acessibilidade e aprimorar a experiência geral do usuário.
+
+-Compatibilidade:
+Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
