@@ -1,5 +1,9 @@
 # CareMe
 Grupo: Gabryella, Marcelo, Mateus, Natan, Vitor e Manuela
+
+## Frase: 
+ - Uma empresa de prestação de serviços para idosos e PCD, para que tenham mais acessibilidade.
+
 ## Missão:
  Nosso objetivo é proporcionar uma experiência inclusiva e acessível, conectando idosos e pessoas com deficiência aos serviços essenciais por meio de um aplicativo intuitivo, promovendo independência e bem-estar em suas vidas cotidianas.
 
@@ -39,30 +43,9 @@ Compromisso com atualizações regulares para melhorar a eficiência do reconhec
 -Compatibilidade:
 Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
 
-## Empresa: 
- - Uma empresa destinada para idosos e PCD receberem serviços prestados por cuidadores que trabalharão para esta empresa.
- - Os idosos e PCD poderão solicitar serviços como: Ir ao mercado; Fazer compras; Ir ao banco; Lotéricas; Hospitais; Fármacias; Igrejas, etc.
- - Os cuidadores poderão prestar esses serviços de acordo com a agenda dos clientes.
-
-## Clientes: 
- - Nossos clientes são os Idosos e PCD
-
-## Contribuição social: 
- - Os idosos e PCD estarão recebendo mais atenção, visibilidade e facilidade em ter acesso em que muitas das vezes não podem ter.
- - Os cuidadores terão uma margem de emprego aumentada, gerando mais empregabilidade.
-
-## Beneficios para os clientes: 
- - Muitas das vezes idosos e PCDs, não tem acesso às atividades normais do dia-a-dia, simplesmente por serem quem eles são. Com esse aplicativo, elas poderão ir aonde quiserem, ter o serviço que quiserem e principalmente, quando quiserem
- 1. Acessibilidade.
- 2. Inclusão.
- 3. Tempo.
-
-## Diferencial competitivo em relação a concorrência: 
-- Empresas de locomoção não são mais novidade no mercado, mas nenhuma dessas empresas oferecem pessoas que alem de te levarem em algum local designado, CUIDEM de você!
-- Os cuidadores não necessáriamente precisarão te levar a um local. Eles podem prestar serviços aos clientes, no conforto da casa do mesmo.
-
-## Frase: 
- - Uma empresa de prestação de serviços para idosos e PCD, para que tenham mais acessibilidade.
+## Pagamento:
+- O pagamento viria através de fatura, assim que se cadastrarem no aplicativo eles vão poder fazer o login em um banco e todo final de mês, a fatura chegaria.
+E tudo isso muito visivel e sem muitas abas para que os idosos e pcd possam achar sem dificuldades
 
 ## Usuário:
  - Os usuários serão os Idosos, PCDs e pessoas que poderão ajuda-los a usar o APP; Cuidadores
@@ -106,7 +89,24 @@ Abaixo tem algumas funcionalidades especificas do aplicativo:
    - Disponibilização de informações sobre o motorista, como foto e descrição, para que os usuários possam reconhecê-los facilmente.
    - Opção para solicitar motoristas que falam língua de sinais, se necessário.
 
-- Pagamento:
-- O pagamento viria através de fatura, assim que se cadastrarem no aplicativo eles vão poder fazer o login em um banco e todo final de mês, a fatura chegaria.
+## Empresa: 
+ - Uma empresa destinada para idosos e PCD receberem serviços prestados por cuidadores que trabalharão para esta empresa.
+ - Os idosos e PCD poderão solicitar serviços como: Ir ao mercado; Fazer compras; Ir ao banco; Lotéricas; Hospitais; Fármacias; Igrejas, etc.
+ - Os cuidadores poderão prestar esses serviços de acordo com a agenda dos clientes.
 
-E tudo isso muito visivel e sem muitas abas para que os idosos e pcd possam achar sem dificuldades
+## Clientes: 
+ - Nossos clientes são os Idosos e PCD
+
+## Contribuição social: 
+ - Os idosos e PCD estarão recebendo mais atenção, visibilidade e facilidade em ter acesso em que muitas das vezes não podem ter.
+ - Os cuidadores terão uma margem de emprego aumentada, gerando mais empregabilidade.
+
+## Beneficios para os clientes: 
+ - Muitas das vezes idosos e PCDs, não tem acesso às atividades normais do dia-a-dia, simplesmente por serem quem eles são. Com esse aplicativo, elas poderão ir aonde quiserem, ter o serviço que quiserem e principalmente, quando quiserem
+ 1. Acessibilidade.
+ 2. Inclusão.
+ 3. Tempo.
+
+## Diferencial competitivo em relação a concorrência: 
+- Empresas de locomoção não são mais novidade no mercado, mas nenhuma dessas empresas oferecem pessoas que alem de te levarem em algum local designado, CUIDEM de você!
+- Os cuidadores não necessáriamente precisarão te levar a um local. Eles podem prestar serviços aos clientes, no conforto da casa do mesmo.
