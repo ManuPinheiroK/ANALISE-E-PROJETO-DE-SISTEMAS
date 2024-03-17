@@ -30,22 +30,6 @@ Oferecer um atendimento personalizado e flexível, reconhecendo a singularidade 
    ## Resumo:
 CareMe é uma plataforma inovadora que oferece transporte e assistência personalizada para idosos e pessoas com deficiência, promovendo inclusão e independência através de um aplicativo intuitivo e serviços adaptados às necessidades individuais dos usuários. Seu diferencial está na combinação de cuidados e locomoção, proporcionando aos usuários uma experiência completa e adaptada às suas necessidades específicas.
 
- -Chat por Voz Intuitivo:
-O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
-A interface é projetada para ser fácil de usar, com comandos de voz simples para enviar mensagens, iniciar chamadas e interagir de forma natural.
-
--Reconhecimento de Voz Avançado:
-Utiliza tecnologia de reconhecimento de voz avançada para compreender com precisão os comandos e mensagens dos usuários, proporcionando uma comunicação eficiente e livre de barreiras.
-
--Segurança e Privacidade:
-Implementa protocolos robustos de segurança para proteger a privacidade dos usuários, garantindo que todas as interações no chat por voz sejam seguras e confidenciais.
-
--Atualizações:
-Compromisso com atualizações regulares para melhorar a eficiência do reconhecimento de voz, adicionar novos recursos de acessibilidade e aprimorar a experiência geral do usuário.
-
--Compatibilidade:
-Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
-
 ## Pagamento:
 - O pagamento viria através de fatura, assim que se cadastrarem no aplicativo eles vão poder fazer o login em um banco e todo final de mês, a fatura chegaria.
 E tudo isso muito visivel e sem muitas abas para que os idosos e pcd possam achar sem dificuldades
@@ -91,11 +75,26 @@ Abaixo tem algumas funcionalidades especificas do aplicativo:
 - Informações Acessíveis sobre o Motorista:
    - Disponibilização de informações sobre o motorista, como foto e descrição, para que os usuários possam reconhecê-los facilmente.
    - Opção para solicitar motoristas que falam língua de sinais, se necessário.
+     
+-Chat por Voz Intuitivo:
+O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
+A interface é projetada para ser fácil de usar, com comandos de voz simples para enviar mensagens, iniciar chamadas e interagir de forma natural.
 
+-Reconhecimento de Voz Avançado:
+Utiliza tecnologia de reconhecimento de voz avançada para compreender com precisão os comandos e mensagens dos usuários, proporcionando uma comunicação eficiente e livre de barreiras.
+
+-Segurança e Privacidade:
+Implementa protocolos robustos de segurança para proteger a privacidade dos usuários, garantindo que todas as interações no chat por voz sejam seguras e confidenciais.
+
+-Atualizações:
+Compromisso com atualizações regulares para melhorar a eficiência do reconhecimento de voz, adicionar novos recursos de acessibilidade e aprimorar a experiência geral do usuário.
 ## Empresa: 
  - Uma empresa destinada para idosos e PCD receberem serviços prestados por cuidadores que trabalharão para esta empresa.
  - Os idosos e PCD poderão solicitar serviços como: Ir ao mercado; Fazer compras; Ir ao banco; Lotéricas; Hospitais; Fármacias; Igrejas, etc.
  - Os cuidadores poderão prestar esses serviços de acordo com a agenda dos clientes.
+
+-Compatibilidade:
+Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
 
 ## Clientes: 
  - Nossos clientes são os Idosos e PCD
