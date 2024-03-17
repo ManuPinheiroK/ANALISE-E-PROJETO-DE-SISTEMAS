@@ -1,6 +1,14 @@
 # CareMe
 Grupo: Gabryella, Marcelo, Mateus, Natan, Vitor e Manuela
 
+## Empresa: 
+ - Uma empresa destinada para idosos e PCD receberem serviços prestados por cuidadores que trabalharão para esta empresa.
+ - Os idosos e PCD poderão solicitar serviços como: Ir ao mercado; Fazer compras; Ir ao banco; Lotéricas; Hospitais; Fármacias; Igrejas, etc.
+ - Os cuidadores poderão prestar esses serviços de acordo com a agenda dos clientes.
+
+ - Compatibilidade:
+ Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
+
 ## Frase: 
  - Uma empresa de prestação de serviços para idosos e PCD, para que tenham mais acessibilidade.
 
