@@ -1,5 +1,43 @@
 # CareMe
 Grupo: Gabryella, Marcelo, Mateus, Natan, Vitor e Manuela
+## Missão:
+ Nosso objetivo é proporcionar uma experiência inclusiva e acessível, conectando idosos e pessoas com deficiência aos serviços essenciais por meio de um aplicativo intuitivo, promovendo independência e bem-estar em suas vidas cotidianas.
+
+## Visão:
+ Ser a principal referência global em inovação para serviços destinados a idosos e pessoas com deficiência, promovendo inclusão, suporte personalizado e qualidade de vida através de tecnologia acessível e centrada no usuário
+
+## Valores:
+ -Empatia e Respeito:
+Priorizar o entendimento das necessidades individuais dos idosos e pessoas com deficiência, demonstrando compreensão e consideração em cada interação.
+
+ -Inclusão e Acessibilidade:
+Garantir que todos os serviços e ambientes sejam acessíveis, promovendo a inclusão e respeitando a diversidade de habilidades e condições.
+
+ -Compromisso com a Qualidade de Vida:
+Focar em oferecer serviços que contribuam para melhorar a qualidade de vida dos clientes, adaptando-se às suas preferências e limitações.
+
+ -Transparência e Integridade:
+Manter uma comunicação aberta e transparente, agindo com integridade em todas as transações e processos para construir confiança duradoura.
+
+ -Atendimento Personalizado:
+Oferecer um atendimento personalizado e flexível, reconhecendo a singularidade de cada cliente e ajustando os serviços conforme as necessidades evoluem.
+
+## Definição de projeto de Softaware:
+ -Chat por Voz Intuitivo:
+O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
+A interface é projetada para ser fácil de usar, com comandos de voz simples para enviar mensagens, iniciar chamadas e interagir de forma natural.
+
+-Reconhecimento de Voz Avançado:
+Utiliza tecnologia de reconhecimento de voz avançada para compreender com precisão os comandos e mensagens dos usuários, proporcionando uma comunicação eficiente e livre de barreiras.
+
+-Segurança e Privacidade:
+Implementa protocolos robustos de segurança para proteger a privacidade dos usuários, garantindo que todas as interações no chat por voz sejam seguras e confidenciais.
+
+-Atualizações:
+Compromisso com atualizações regulares para melhorar a eficiência do reconhecimento de voz, adicionar novos recursos de acessibilidade e aprimorar a experiência geral do usuário.
+
+-Compatibilidade:
+Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
 
 ## Empresa: 
  - Uma empresa destinada para idosos e PCD receberem serviços prestados por cuidadores que trabalharão para esta empresa.
@@ -31,22 +69,6 @@ Grupo: Gabryella, Marcelo, Mateus, Natan, Vitor e Manuela
 
 ## Plataforma:
  - Android e IOS.
-## Software:
- -Chat por Voz Intuitivo:
-O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
-A interface é projetada para ser fácil de usar, com comandos de voz simples para enviar mensagens, iniciar chamadas e interagir de forma natural.
-
--Reconhecimento de Voz Avançado:
-Utiliza tecnologia de reconhecimento de voz avançada para compreender com precisão os comandos e mensagens dos usuários, proporcionando uma comunicação eficiente e livre de barreiras.
-
--Segurança e Privacidade:
-Implementa protocolos robustos de segurança para proteger a privacidade dos usuários, garantindo que todas as interações no chat por voz sejam seguras e confidenciais.
-
--Atualizações:
-Compromisso com atualizações regulares para melhorar a eficiência do reconhecimento de voz, adicionar novos recursos de acessibilidade e aprimorar a experiência geral do usuário.
-
--Compatibilidade:
-Desenvolvido para funcionar perfeitamente tanto em dispositivos Android quanto iOS, garantindo que pessoas com diferentes smartphones possam utilizar a plataforma sem restrições.
 
 ## Funcionalidade:
 
