@@ -28,7 +28,7 @@ Oferecer um atendimento personalizado e flexível, reconhecendo a singularidade 
 
 ## Definição de projeto de Softaware:
    ## Resumo:
-CareMe é uma plataforma inovadora que oferece transporte e assistência personalizada para idosos e pessoas com deficiência, promovendo inclusão e independência através de um aplicativo intuitivo e serviços adaptados às necessidades individuais dos usuários.
+CareMe é uma plataforma inovadora que oferece transporte e assistência personalizada para idosos e pessoas com deficiência, promovendo inclusão e independência através de um aplicativo intuitivo e serviços adaptados às necessidades individuais dos usuários. Seu diferencial está na combinação de cuidados e locomoção, proporcionando aos usuários uma experiência completa e adaptada às suas necessidades específicas.
 
  -Chat por Voz Intuitivo:
 O aplicativo oferece um chat por voz intuitivo, permitindo que usuários com diferentes tipos de deficiências possam se comunicar de maneira eficaz.
